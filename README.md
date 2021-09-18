@@ -5,10 +5,10 @@
 ##Architecture Pattern
 MVC (Model - View - Controller)  
 
-##Access Permission
+## Access Permission
 ACCESS_FINE_LOCATION    
 ACCESS_COARSE_LOCATION     
 [위치 기반 Access]
 
-##Using
+## Using
 Shared Preferences를 통해 초기 교육용 팝업 visible 여부 판단
