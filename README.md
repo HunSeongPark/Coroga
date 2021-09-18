@@ -19,3 +19,4 @@ Shared Preferences를 통해 초기 교육용 팝업 visible 여부 판단
 3. 처음 본 앱을 구상 할 때는 MVVM 패턴을 연습하는 것이 목적이었는데, 실패실패 대실패    
 4. 사용한 라이브러리도 오직 Shared Preferences로 Boolean 값 하나만 저장하는 것만 이용했습니다.    
 5. 결과적으로 Architecture Pattern을 연습했다기보단 UI/UX 쪽에 집중할 수 있었던 프로젝트 였습니다.    
++ 😷 플레이스토어에 코로나 관련 앱은 등록하지 못한다는 걸 완성하고 깨달았습니다. 😷
